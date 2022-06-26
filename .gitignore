@@ -1,3 +1,5 @@
 # Project exclude paths
 /.gradle/
 /Cinema Room Manager/task/build/
+/Cinema Room Manager/task/test/
+/Topics/
